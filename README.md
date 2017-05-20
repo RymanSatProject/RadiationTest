@@ -1,8 +1,8 @@
 # RadiationTest
 Radiation Test Arduino Program
 
-Arduino Serial  
+  Arduino Serial  
 
-Use Hard  
-  Arduino nano  
-  INA226  
+  Use Hard  
+  Arduino nano
+  INA226
